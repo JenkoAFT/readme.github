@@ -40,7 +40,7 @@ Sharing Seth Siegelaub’ beliefs early 70’, we want to realize an unprecedent
 
 Fruit your Art !
 
-#user story 
+# user story 
 users access to jenko.io.
 
 the platform enable the management of physical Artpieces using blockchain technology. the users (Artist, Galeries, collectors) can easily manage the data related to Artpieces, including its Certificate of Authenticity and the traceability while its physical transfer or when a transaction has been completed or is being to be completed. 
