@@ -13,7 +13,18 @@ the proposed Architecture is NFT-based copyright that includes the following lay
 Jenko is an web3 infrastructure able to Store, Sort, Share, Transfer Artwork Certificates of Authenticity while the Artwork changes hands. The use of NFT enable to incorporate legal terms along side the physical Artwork with the aim to improve with the blockchain, the protection of Intellectual Property rights, the traceability management of Artwork, the transfer of ownership from one to another.    
         
 
-# user story
+# Art Fruit Token Agreement
+The AFT Agreement is designed to add a legal field onboarded to Artworks. This AFT Agreement is a part of a unique and immutable Certificate of Authenticity created by the Artist as a Non Fungible Token. It defines the terms and conditions to reward the Value Makers such as Artists, Galleries, Collectors, Jenko.io, and the Beneficiaries through a smart & autonomous Royalty system while improving the Intellectual Property rights and the asset management of the Artwork. 
+
+Art Fruit Token is dedicated to physical Artworks
+
+This AFT agreement aims to complete all further commitments agreed between Parties to host or sale of Artworks, by providing an irrefutable protection, to defend and enforce the reserved rights and in particular the Intellectual Property rights in the digital age. 
+
+Sharing Seth Siegelaub’ beliefs early 70’, we want to realize an unprecedented Agreement enable to establish sustainable trust and value distribution to substitute for what has existed before-nothing. 
+
+Fruit your Art 
+
+#user story 
 users access to jenko.io.
 
 the platform enable the management of physical Artpieces using blockchain technology. the users (Artist, Galeries, collectors) can easily manage the data related to Artpieces, including its Certificate of Authenticity and the traceability while its physical transfer or when a transaction has been completed or is being to be completed. 
