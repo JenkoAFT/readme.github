@@ -1,5 +1,5 @@
 # Jenko.io
-Jenko.io is a platform enable to create and provide Certificated of Authenticity recorded in Blockchain for a piece of Art. This website platform is dedicated to Artists, Galeries, Collectors and will be able to contain a royalties systems.
+Jenko.io is a platform enable to manage physical Artwork alongside its AFT Certificated of Authenticity recorded in Blockchain. This website platform is dedicated to Artists, Galeries, Collectors and contains a royalties systems.
 
 "Property together with a contract, is the core institutional component of Market and a core institutional element of liberal society" Yochai Benkler - the wealth of network 2006
 
