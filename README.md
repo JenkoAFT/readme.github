@@ -22,7 +22,7 @@ This AFT agreement aims to complete all further commitments agreed between Parti
 
 Sharing Seth Siegelaub’ beliefs early 70’, we want to realize an unprecedented Agreement enable to establish sustainable trust and value distribution to substitute for what has existed before-nothing. 
 
-Fruit your Art 
+Fruit your Art !
 
 #user story 
 users access to jenko.io.
