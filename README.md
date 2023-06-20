@@ -10,7 +10,7 @@ the proposed Architecture is NFT-based copyright that includes the following lay
       Verification Layer: Chain based consensus : POW
       Application Layer: Jenko.io
  
-Jenko is an web3 infrastructure able to Store, Sort, Share, Transfer Artwork Certificates of Authenticity while the Artpiece changes hands. The use of NFT enable to incorporate legal terms along side the physical Artwork with the aim to improve with the blockchain, the protection of Intellectual Property rights, the traceability management of Artwork, the transfer of ownership from one to another.    
+Jenko is an web3 infrastructure able to Store, Sort, Share, Transfer Artwork Certificates of Authenticity while the Artwork changes hands. The use of NFT enable to incorporate legal terms along side the physical Artwork with the aim to improve with the blockchain, the protection of Intellectual Property rights, the traceability management of Artwork, the transfer of ownership from one to another.    
         
 
 # user story
