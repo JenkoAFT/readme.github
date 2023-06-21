@@ -10,9 +10,9 @@ the proposed Architecture is NFT-based copyright that includes the following lay
       Verification Layer: Chain based consensus : POW
       Application Layer: Jenko.io
  
-Jenko is an web3 infrastructure able to Store, Sort, Share, Transfer Artwork Certificates of Authenticity while the Artwork changes hands. The use of NFT enable to incorporate legal terms along side the physical Artwork with the aim to improve with the blockchain, the protection of Intellectual Property rights, the traceability management of Artwork, the transfer of ownership from one to another.    
+Jenko is an web3 infrastructure able to Store, Sort, Share, Transfer Artwork Certificates of Authenticity while the Artwork changes hands. The use of NFT enable to incorporate legal terms along side the physical Artwork with the aim to improve, the protection of Intellectual Property rights, the traceability management of Artwork, the transfer of ownership from one to another, while providing a high level of security and privacys with the blokchain.    
 
-# Art Fruit Token
+# Art Fruit Token (AFT)
 Art Fruit Token is a NFTs Certificate of Authenticity that includes Royalties rights while improving Intellectual Property Rights. 
 
 # AFT in nutshell
