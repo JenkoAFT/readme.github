@@ -25,12 +25,12 @@ Artists, Gallery, professionals of Art and Collectors to protect, store, classif
 
 This unique AFT facilitates the management of Artwork at different levels:
 
-Certificate of Authenticity with irrefutable proof of ownership.
-Traceability of the Artwork while keeping the privacy (more about NFC stickers here).
-Creation of Portfolios to share Artworks easily with Galleries or Collectors.
-Tracking of Artwork images on the internet with a reverse image search AI.
-Transfer of care, custody and control during the physical transfer of Artwork including the associated transfer of ownership (if any). 
-Expand ownership rights including royalties on each future sale ( more about beneficiary here).
+      -Certificate of Authenticity with irrefutable proof of ownership.
+      -Traceability of the Artwork while keeping the privacy (more about NFC stickers here).
+      -Creation of Portfolios to share Artworks easily with Galleries or Collectors.
+      -Tracking of Artwork images on the internet with a reverse image search AI.
+      -Transfer of care, custody and control during the physical transfer of Artwork including the associated transfer of ownership (if any). 
+      -Expand ownership rights including royalties on each future sale ( more about beneficiary here).
 
 The AFT is separated from any contract agreement set forth aside between Parties (i.e exhibition contract or sale contract).The AFT empowers Artists with a unique digital signature of the image of Artwork. The AFT Agreement provides conditions to protect Intellectual Property rights while providing support to the enforcement in respect of such rights.  The AFT Royalties system would remain anytime transferable to beneficiaries or to having rights persons or foundation. Such immaterial assets is a Jenko value that comes in addition to the Artpiece value and corresponds to potential cash flow convertible.
 
